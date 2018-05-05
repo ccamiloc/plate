@@ -1,0 +1,1 @@
+{"description": "", "tags": ["train"], "size": {"height": 600, "width": 752}, "objects": [{"description": "", "bitmap": null, "tags": ["NVU8738"], "classTitle": "plate_bbox", "points": {"exterior": [[446, 313], [536, 359]], "interior": []}}]}
